@@ -1,4 +1,4 @@
-version: "3.9"
+version: "3"
 services:
   time-tagger-mqtt:
     image: ghcr.io/poebelpogge/time-tagger-mqtt:main
